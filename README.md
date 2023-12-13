@@ -10,11 +10,11 @@ N/A
 
 ## Usage
 
-To use horizeon site, you can press navigation tabs at the top right corner of the wepbage and it will direct you to place on the same page where that information is located
+To use horizeon site, you can press navigation tabs at the top right corner of the wepbage and it will direct you to place on the same page where that specific information is located
 
 ## Credits
 
-N/A
+Homewark was given by Columbia Engineering Bootcamp
 
 ## License
 
